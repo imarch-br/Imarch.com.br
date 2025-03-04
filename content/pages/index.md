@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Isto é um distintivo
+      label: Focado na percepção visual
       color: text-primary
       type: Badge
     elementId: ''
