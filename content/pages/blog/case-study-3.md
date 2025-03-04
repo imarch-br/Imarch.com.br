@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Residencial
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
