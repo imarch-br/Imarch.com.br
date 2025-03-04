@@ -686,7 +686,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Fale com a gente
+      text: Escreva
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
