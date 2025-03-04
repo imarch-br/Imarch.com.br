@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Tudo que só deve ser sentido e não dito
+    subtitle: Tudo que só deve ser sentido e não dito em numeros
     items:
       - type: FeaturedItem
         title: 500k
