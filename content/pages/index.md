@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Texturas formas e cores de maneiras envolventes.
-      color: text-primary
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
