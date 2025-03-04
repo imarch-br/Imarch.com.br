@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Texturasm formas e cores
+      text: Texturas formas e cores
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
