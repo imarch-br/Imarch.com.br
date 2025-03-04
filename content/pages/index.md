@@ -690,11 +690,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: receberemos sua mensagem
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **As palavras podem ter sentido ou serem esvaziadas..**.  <sup>Oque
+      criamos reflete sua vida e essência, essa é nossa linguagem, escolhemos
+      quem nos escolhe.</sup>
     media:
       fields:
         - name: name
