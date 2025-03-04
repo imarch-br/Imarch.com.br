@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Focado na percepção visual
+      label: "Focado na percepção\_ sensorial"
       color: text-primary
       type: Badge
     elementId: ''
