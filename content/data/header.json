@@ -74,7 +74,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Sair",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
