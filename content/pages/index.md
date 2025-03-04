@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Seja um protagonista!
     text: >
-      Porque cores, formas, luzes e sombras criam o dinamismo dos ambientes e
+      Cores, formas, luzes e sombras criam o dinamismo dos ambientes e
       perspectivas sensoriais. Utilizamos técnicas de psicologia, designer e
       arquitetura para tornar cada interação real única. Fizemos tudo isso
-      focados na vida humana e no impacto do ser.  
+      focados na vida humana e no impacto do ser.
     actions:
       - label: Get started
         altText: ''
