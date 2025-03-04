@@ -594,7 +594,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: PROJETOS
       color: text-primary
       styles:
         self:
