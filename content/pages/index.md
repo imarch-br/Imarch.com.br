@@ -54,7 +54,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Tranformamos
+      text: Materialozamos
       color: text-dark
       styles:
         self:
