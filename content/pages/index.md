@@ -169,7 +169,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Adjetivos que refletem o a linguagem dos nossos projetos.
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
