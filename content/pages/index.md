@@ -356,7 +356,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Desenvolva seu projeto com a gente.
+      text: "Desenvolva o\_ seu proceso projeto com a gente."
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
