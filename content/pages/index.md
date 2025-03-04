@@ -14,7 +14,7 @@ sections:
       arquitetura para tornar cada interação real única. Fizemos tudo isso
       focados na vida humana e no impacto do ser.
     actions:
-      - label: Get started
+      - label: Começe
         altText: ''
         url: /
         showIcon: false
