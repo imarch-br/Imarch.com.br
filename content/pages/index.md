@@ -362,7 +362,7 @@ sections:
     subtitle: Esteja em boa companhia.
     text: >
       Um serviço que fornece aconselhamento, orientação, arte e criação de todo
-      o projeto conceitual e sua aplicação real.
+      o processo conceitual e sua aplicação real.
     actions:
       - label: Comece
         url: /
