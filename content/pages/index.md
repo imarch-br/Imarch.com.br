@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Seja um protagonista!
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Porque cores, formas, luzes e sombras criam o dinamismo dos ambientes e
+      perspectivas sensoriais. Utilizamos técnicas de psicologia, designer e
+      arquitetura para tornar cada interação real única. Fizemos tudo isso
+      focados na vida humana e no impacto do ser.  
     actions:
       - label: Get started
         altText: ''
