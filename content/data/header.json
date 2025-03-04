@@ -9,7 +9,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "LOGO_ID"
     },
     "primaryLinks": [
         {
