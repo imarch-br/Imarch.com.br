@@ -361,8 +361,8 @@ sections:
       type: TitleBlock
     subtitle: Esteja em boa companhia.
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Um serviço que fornece aconselhamento, orientação, arte e criação de todo
+      o projeto conceitual e sua aplicação real.
     actions:
       - label: Get started
         url: /
