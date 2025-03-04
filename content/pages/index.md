@@ -54,7 +54,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Principais benefícios
+      text: Tranformamos
       color: text-dark
       styles:
         self:
