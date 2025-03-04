@@ -359,7 +359,7 @@ sections:
       text: "Desenvolva o\_ seu processo projetual com a gente."
       color: text-dark
       type: TitleBlock
-    subtitle: Esteja em boa companhia
+    subtitle: Esteja em boa companhia.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
