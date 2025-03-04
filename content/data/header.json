@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/DALL·E 2025-02-11 02.15.11 - A modern and minimalist logo for a brand called 'Imach'. The design should incorporate elements of architecture, technology, and innovation. The color.webp",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
