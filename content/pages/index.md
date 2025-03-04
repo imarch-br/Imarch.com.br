@@ -364,7 +364,7 @@ sections:
       Um serviço que fornece aconselhamento, orientação, arte e criação de todo
       o projeto conceitual e sua aplicação real.
     actions:
-      - label: Começe
+      - label: Comece
         url: /
         icon: arrowRight
         iconPosition: right
