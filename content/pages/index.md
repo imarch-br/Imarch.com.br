@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Texturas formas e cores de maneiras envolventes.
+      text: Arquitetura de impacto dinamico.
       color: text-dark
       type: TitleBlock
     subtitle: Seja um protagonista!
