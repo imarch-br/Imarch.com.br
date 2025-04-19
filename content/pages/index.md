@@ -746,7 +746,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Conheça a equipe
       color: text-dark
       styles:
         self:
