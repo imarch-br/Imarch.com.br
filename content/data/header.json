@@ -20,7 +20,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Projetos",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
