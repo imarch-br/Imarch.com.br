@@ -17,7 +17,7 @@
             "label": "Projetos",
             "url": "/pricing",
             "icon": "arrowRight",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
             "type": "Link"
         },
