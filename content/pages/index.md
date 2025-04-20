@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Arquitetura dinamica de impacto
+      text: Arquitetura dinâmica de impacto
       color: text-dark
       type: TitleBlock
     subtitle: Seja um protagonista!
