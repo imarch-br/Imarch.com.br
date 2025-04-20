@@ -33,7 +33,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/DALL·E 2025-04-19 21.09.03 - An elegant and minimalistic web
+        banner image for a section titled 'Arquitetura dinâmica de impacto'. The
+        composition should feature abstract, organic .webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
