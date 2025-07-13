@@ -57,7 +57,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Materialozamos subjetividades
+      text: Materializamos subjetividades
       color: text-dark
       styles:
         self:
